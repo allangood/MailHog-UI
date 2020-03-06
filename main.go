@@ -8,11 +8,11 @@ import (
 
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
-	"github.com/mailhog/MailHog-UI/assets"
-	"github.com/mailhog/MailHog-UI/config"
-	"github.com/mailhog/MailHog-UI/web"
-	comcfg "github.com/mailhog/MailHog/config"
-	"github.com/mailhog/http"
+	"github.com/allangood/MailHog-UI/assets"
+	"github.com/allangood/MailHog-UI/config"
+	"github.com/allangood/MailHog-UI/web"
+	comcfg "github.com/allangood/MailHog/config"
+	"github.com/allangood/http"
 )
 
 var conf *config.Config
